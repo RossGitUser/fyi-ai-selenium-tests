@@ -5,3 +5,4 @@ allure-results/
 .DS_Store
 .idea/
 *.iml
+project-structure.txt
