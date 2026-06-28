@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="FYI AI Full Test Suite">
+    <test name="All Tests">
+        <packages>
+            <package name="org.appium.tests"/>
+        </packages>
+    </test>
+</suite>
+
+

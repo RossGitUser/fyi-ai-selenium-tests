@@ -1,0 +1,13 @@
+<suite name="RegressionSuite">
+    <listeners>
+        <listener class-name="org.util.TestListener"/>
+    </listeners>
+    <test name="FYI AI Tests">
+        <classes>
+            <class name="org.appium.tests.HamburgerMenuTest"/>
+            <class name="org.appium.tests.ContactSupportTest"/>
+        </classes>
+    </test>
+</suite>
+
+
